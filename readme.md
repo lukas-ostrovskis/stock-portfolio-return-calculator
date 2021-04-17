@@ -14,7 +14,7 @@ This is a Python app for calculating the returns of a stock portfolio over a cho
 
 ## Usage
 
-1. Run `python app.py` or run the executable `/dist/app.exe`.
+1. Run `python app.py`.
 2. Input the portfolio with share entries as described.
 3. Choose the start and end dates for the time frame in which portfolio returns should be calculated.
 4. Click submit and wait for the program to calculate the returns*.<br>
